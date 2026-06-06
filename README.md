@@ -4,7 +4,6 @@ Developed an intelligent, edge-based dashcam system designed for real-time autom
 # DashEye Ticketing System
 ### AI-Based Dashcam for Traffic Violation Detection & Police Verification
 
-> **Team Megatron** | Smart India Hackathon 2025
 
 ---
 
